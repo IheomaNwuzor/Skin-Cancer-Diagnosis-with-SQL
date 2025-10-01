@@ -1,6 +1,6 @@
 # Skin-Cancer-Diagnosis-with-SQL
 # Project Overview
-Skin cancer is one of the most common yet preventable cancers worldwide. Early detection significantly improves survival rates, but diagnosis is often delayed due to misdiagnosis, lack of access to dermatologists, and limited awareness of risk factors. This project utilises SQL-based analysis to structure, explore, and analyse a clinical dataset of 1,089 skin lesion cases. By integrating patient demographics, environmental exposures, and lesion characteristics, this project demonstrates how data-driven insights can support early diagnosis, machine learning, and public health research.
+Skin cancer is one of the most common yet preventable cancers worldwide. Early detection significantly improves survival rates, but diagnosis is often delayed due to misdiagnosis, lack of access to dermatologists, and limited awareness of risk factors. As a data Sxientist, I utilised SQL-based analysis to structure, explore, and analyse a clinical dataset of 1,088 skin lesion cases. I integrated patient demographics, environmental exposures, and lesion characteristics to analyse the dataset incoporating fare patterns and other factors needed to optimise the dataset operations and make data-driven descisions that support early diagnosis, cancer detection and timely treatmnt.
 
 ## Objectives
 •	Build a SQL database integrating clinical (Patient_Info) and lesion-level (Lesion_Info) data.
