@@ -1,4 +1,6 @@
-# Skin-Cancer-Diagnosis-with-SQL
+# DERMAI Skin-Cancer-Diagnosis-with-SQL
+![Skin cancer](https://github.com/user-attachments/assets/a11f633c-c1d2-48bb-9bb1-d9faa0defd48)
+
 # Project Overview
 DERM AI Diagnostic contacted us to develop an SQL analysis to provide data driven insights that empowers medical professionals in daignosing and treating skin lesions more accurately enhance early skin cancer detection.
 
