@@ -47,7 +47,7 @@ Project Workflow
 4.	Analysis & Insights → Identify high-risk groups and lesion patterns.
 5.	Recommendations → Structure dataset for AI training & clinical use.
 
-some of the key features of the data sets
+Some of the key features of the data sets
 
 Key Features (Metrics Overview):
 
