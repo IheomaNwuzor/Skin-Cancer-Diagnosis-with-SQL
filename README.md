@@ -6,21 +6,6 @@ I extracted, transformed and load the diagnostic data using Postgresql I perform
 
 I integrated tables from environmental factors and demographic factors and wrote queries to identify key insights to see if environmental factors, lifestyle choices and demographic such as Age, smoking, alcohol drinking,access to medical facilities, good hygiene have a significant impact on the disease and early intervention.
 
-some of the key features of the data sets
-
-Key Features (Metrics Overview):
-
-Unified Data Integration: Merged patient demographics with lesion characteristics for cohesive analysis.
-Risk Segmentation: Analyzed risk factors based on age, gender, smoking, drinking, and pesticide exposure.
-Lesion Symptoms: Examined manifestations such as itching, bleeding, elevation, and color change.
-Insights Gained:
-
-Age Is a Critical Factor: The likelihood of malignancy increases sharply after age 40, with patients 60+ experiencing over 80% malignancy rates.
-Lifestyle Risks Accelerate Malignancy: 95% of drinkers and 97% of smokers developed malignant lesions; those who both smoked and drank faced nearly 100% malignancy rates.
-Lesion Size Matters: Larger lesions strongly correlate with malignancy, emphasizing the need for immediate screening in patients with wide-diameter lesions.
-Size Signals Danger: Larger lesions should prompt urgent diagnostic evaluation.
-Male Predominance: Men exhibit slightly higher malignancy rates, likely due to greater environmental exposures.
-
 ## Objectives
 •	Build a SQL database integrating clinical (Patient_Info) and lesion-level (Lesion_Info) data.
 •	Explore demographic and environmental risk factors linked to skin cancer incidence.
@@ -61,6 +46,21 @@ Project Workflow
 3.	Exploratory Queries → Answer medical and epidemiological questions.
 4.	Analysis & Insights → Identify high-risk groups and lesion patterns.
 5.	Recommendations → Structure dataset for AI training & clinical use.
+
+some of the key features of the data sets
+
+Key Features (Metrics Overview):
+
+Unified Data Integration: Merged patient demographics with lesion characteristics for cohesive analysis.
+Risk Segmentation: Analyzed risk factors based on age, gender, smoking, drinking, and pesticide exposure.
+Lesion Symptoms: Examined manifestations such as itching, bleeding, elevation, and color change.
+Insights Gained:
+
+Age Is a Critical Factor: The likelihood of malignancy increases sharply after age 40, with patients 60+ experiencing over 80% malignancy rates.
+Lifestyle Risks Accelerate Malignancy: 95% of drinkers and 97% of smokers developed malignant lesions; those who both smoked and drank faced nearly 100% malignancy rates.
+Lesion Size Matters: Larger lesions strongly correlate with malignancy, emphasizing the need for immediate screening in patients with wide-diameter lesions.
+Size Signals Danger: Larger lesions should prompt urgent diagnostic evaluation.
+Male Predominance: Men exhibit slightly higher malignancy rates, likely due to greater environmental exposures.
 
 ![ERD](https://github.com/user-attachments/assets/6b77a159-44bb-4b6e-91fc-62537f6ed2e9)
 
